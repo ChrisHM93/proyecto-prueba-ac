@@ -1,0 +1,17 @@
+.container-main {
+    min-height: 100vh;
+    border: solid white;
+    padding: 15px;
+}
+
+.modal-planing {
+    background: white;
+    border-radius: 6px;
+    border: solid rgb(224, 129, 20);
+    color: rgb(51, 51, 51);
+    display: inline;
+    max-height: 620px;
+    max-width: 800px;
+    outline: none;
+    padding: 10px;
+}

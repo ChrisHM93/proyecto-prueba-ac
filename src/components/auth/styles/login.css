@@ -1,0 +1,47 @@
+
+.main-container-center {
+    display: flex;
+    margin-top: 0.6cm;
+    margin-right: 50%;
+    margin-left: 31%;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 40%;
+    border-radius: 5pxs;
+    border: solid white;
+    border-top: none;
+    border-left-width: thin;
+    border-right-width: thin;
+    border-bottom-width: thin;
+    box-shadow: 3px 5px #2f4f74;
+  }
+
+  img {
+    width: 8%;
+    height: 8%;
+
+  }
+  
+  .box-container {
+    border-radius: 2px;
+    padding: 20px;
+    width: 250px;
+  }
+  
+  .box-login-container {
+    border: solid white;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 5vh;
+  }
+
+  .btn-login {
+    width: 30%;
+    height: 30%;
+    margin-left: 4%;
+    
+  }
+  

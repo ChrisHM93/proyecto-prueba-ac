@@ -1,0 +1,39 @@
+.nav-brand {
+    background-color: #e26b09;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+
+.nav {
+    background-color: #85bad9;
+}
+
+.banner {
+    font-family: 'Dela Gothic One';
+    font-size: 40px;
+    color: white;
+}
+
+.footer {
+    background-color: #e26b09;
+    /* align-items: center;
+    width: 100%;
+    position: absolute; */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100px;
+}
+
+button {
+    align-items: center;
+    height: 60px;
+    border-radius: 10px;
+}
+
+span {
+    font-family: 'Cairo', sans-serif;
+    color: white;
+    font-size: 22px;
+}

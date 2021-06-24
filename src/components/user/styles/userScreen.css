@@ -1,0 +1,26 @@
+.container-ac {
+    min-height: 100vh;
+}
+
+.table-container {
+    border: solid rgb(224, 129, 20);
+    margin-top: 10px;
+    border-width: thick;
+    border-style: dashed;
+}
+
+.table-style {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: solid #3a6ba5;
+    width: 99%;
+    background-color: rgba(174, 226, 241, 0.493);
+}
+
+.pagination {
+    margin-right: 8px;
+}
+
+
